@@ -111,16 +111,9 @@ module tb_moore_seq_detector;
 endmodule
 ```
 ### Simulation Output
--
--
--
--
--
--
-Paste the output here
--
--
--
+
+<img width="1601" height="965" alt="image" src="https://github.com/user-attachments/assets/39fa6973-a1dd-44a1-87c8-d70151dd71a2" />
+
 
 ### Result
 
